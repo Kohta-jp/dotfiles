@@ -1,4 +1,4 @@
 .*~
 *~
-auto-save-list
-history
+/.emacs.d/auto-save-list/
+/.emacs.d/history
